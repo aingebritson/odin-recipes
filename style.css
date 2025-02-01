@@ -7,8 +7,17 @@
 h1 {
     text-align: center;
     font-size: 40px;
+    background-color: gold;
+    padding: 16px;
+    width: 400px;
+    margin: auto;
+    border: 2px indigo dotted;
 }
 
 ol {
     font-weight: bold;
+}
+
+li {
+    padding: 8px;
 }
