@@ -16,8 +16,11 @@ h1 {
 
 ol {
     font-weight: bold;
+    margin: 25px 100px;
+    padding: 5px 0px 5px 40px;
 }
 
 li {
-    padding: 8px;
+    padding: 5px;
+    margin: 5px;
 }
