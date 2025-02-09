@@ -14,7 +14,7 @@ h1 {
     border: 2px indigo dotted;
 }
 
-ol {
+.home {
     font-weight: bold;
     margin: 25px 100px;
     padding: 5px 0px 5px 40px;
@@ -23,4 +23,16 @@ ol {
 li {
     padding: 5px;
     margin: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card {
+    flex: 1;
+    padding: 0px 2em;
+    margin: 2em;
+    border: 2px solid gold;
 }
